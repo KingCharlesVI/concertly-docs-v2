@@ -46,7 +46,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KingCharlesVI/concertly-docs-v2/tree/main/concertly-docs/docs',
+            'https://github.com/KingCharlesVI/concertly-docs-v2/tree/main/concertly-docs/',
         },
         blog: {
           showReadingTime: true,
@@ -57,7 +57,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/KingCharlesVI/concertly-docs-v2/tree/main/concertly-docs/docs',
+            'https://github.com/KingCharlesVI/concertly-docs-v2/tree/main/concertly-docs/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
