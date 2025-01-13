@@ -90,7 +90,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://https://github.com/KingCharlesVI/concertly-frontend',
+            href: 'https://github.com/KingCharlesVI/concertly-frontend',
             label: 'GitHub',
             position: 'right',
           },
