@@ -5,8 +5,6 @@ sidebar_position: 1
 
 # Creating an Account
 
-## Overview
-
 Welcome to our platform! This documentation will guide you through the process of creating a new account. Please follow these instructions carefully to ensure a successful registration.
 
 ## Requirements

@@ -106,6 +106,14 @@ const config = {
                 label: 'Introduction',
                 to: '/docs/introduction',
               },
+              {
+                label: 'User Guides',
+                to: '/docs/category/user-guides',
+              },
+              {
+                label: 'API',
+                to: '/docs/category/api',
+              },
             ],
           },
           {

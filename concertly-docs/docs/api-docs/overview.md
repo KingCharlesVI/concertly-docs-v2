@@ -10,7 +10,7 @@ The Concertly API is a RESTful API that uses JSON for request and response bodie
 ## Base URL
 
 ```
-https://api.concertly.com/
+https://api.concertly.net/
 ```
 
 ## Authentication

@@ -5,6 +5,8 @@ sidebar_position: 2
 
 # API Endpoints
 
+A list of all the endpoints in the API
+
 ## Authentication
 
 ### Register
