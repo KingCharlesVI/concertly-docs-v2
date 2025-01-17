@@ -29,34 +29,4 @@ Error responses will include a message explaining what went wrong:
 
 ## Common Error Scenarios
 
-### Authentication Errors
-
-- Missing credentials
-```json
-{
-  "error": "Email and password are required."
-}
-```
-
-- Invalid credentials
-```json
-{
-  "error": "Invalid email or password"
-}
-```
-
-### User Management Errors
-
-- Failed registration
-```json
-{
-  "error": "Failed to register user."
-}
-```
-
-- User deletion errors
-```json
-{
-  "error": "Failed to delete user: [specific error message]"
-}
-```
+To be added later
